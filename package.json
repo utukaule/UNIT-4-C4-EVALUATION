@@ -1,0 +1,27 @@
+{
+  "name": "UNIT-4-C4-EVALUATION",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utukaule/UNIT-4-C4-EVALUATION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utukaule/UNIT-4-C4-EVALUATION/issues"
+  },
+  "homepage": "https://github.com/utukaule/UNIT-4-C4-EVALUATION#readme"
+}
